@@ -10,8 +10,4 @@
     <PackageReference Include="System.Text.Json" Version="9.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Content\" />
-  </ItemGroup>
-
 </Project>
